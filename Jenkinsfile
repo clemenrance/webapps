@@ -49,7 +49,7 @@ pipeline{
                 }
             }
         }
-        stage('Nexus Uplod')
+        stage('Nexus Uplod'){       
 
             steps{
 
